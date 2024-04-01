@@ -1,3 +1,3 @@
 # bookbot
 
-BookBot is my firstgit project!
+BookBot is my first git project!
